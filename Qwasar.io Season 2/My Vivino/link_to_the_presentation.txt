@@ -1,0 +1,8 @@
+Presentation
+https://docs.google.com/presentation/d/1eNQ3jPkstb-RYs8egVOrJ01AewY0CN1utsElOb4oQto/edit?usp=sharing
+
+Blog Publication
+https://medium.com/@melchilegion/upgrading-the-grape-game-a-data-science-approach-to-wine-recommendation-3aed6ee7a9e7
+
+Blog Publication 2
+https://medium.com/@melchilegion/uncorking-insights-predicting-wine-quality-and-analyzing-consumer-sentiment-ace311609c1e
