@@ -1,0 +1,4 @@
+Link to Blogpost
+https://medium.com/@melchilegion/building-ai-to-play-atari-games-a-deep-dive-into-reinforcement-learning-561a8be97f4c
+
+Link to Google Colab

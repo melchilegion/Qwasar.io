@@ -1,0 +1,5 @@
+Link to Blog
+https://medium.com/@melchilegion/classifying-musical-genres-a-journey-through-sound-b58b20a785f2
+
+link to Google Colab
+https://colab.research.google.com/drive/1hVVOQTRMoVV_5DoHQdWCIEDzWZTJ1pEw?usp=sharing
